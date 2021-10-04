@@ -2,18 +2,51 @@
 title: "Felipe Antonio Dzul Manzanilla"
 image: "PG2178129.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/FdzulM"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/fdzul/"
   - label: Email
     url: "mailto:felipe.dzul.m@email.com"
+  - label: Telefono
+    url: "mailto:felipe.dzul.m@email.com"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+## Bio
+
+Licenciado en biología por parte de la Universidad Autónoma de Yucatán y Maestro en Ciencias de la Salud por parte del Instituto Nacional de Salud Pública. Actualmente es candidato en la especialidad de métodos estadísticos en la Universidad Veracruzana. Su experiencia profesional, incluye su desempeño en el programa de prevención y control de enfermedades transmitidas por vector en la secretaría de salud desde el 2003 hasta la presente fecha y ha impartido la materia de Entomología del dengue (2012-2013) y Artrópodos (2009-2013) en la Unidad Académica de Ciencias Químico-Biológicas de la Universidad Autónoma de Guerrero. Su experiencia en investigación incluye la publicación de artículos científicos en revistas nacionales e internacionales y actualmente desarrolla paquetes en R.
+
+## Educación
+
+**Universidad Veracruzana** | Xalapa, Veracruz México
+
+Especialista en Métodos Estadísticos | 2021 - 2022
+
+**Instituto Nacional de Salud Publica** | Cuernavaca, Morelos México
+
+Maestro en Ciencias de la Salud | 2004 - 2006
+
+**Universidad Autónoma de Yucatán ** | Mérida, Yucatán México
+
+Licenciado en Biología  | 1996 - 2001
+
+
+## Experiencia
+
+**Secretaría de Salud de Yucatán** | Entomológo | 2003
+
+**Organización Panamericana de la Salud** | Coordinador Operativo | 2006 - 2007
+
+**Secretaría de Salud de Guerrero** | Entomológo | 2007
+
+**Laboratorio Estatal de Salud Pública de Guerrero** | Entomológo | 2003
+
+**Secretaría de Salud de Guerrero** | Jefe de Departamento | 2009 - 2012
+
+**Secretaría de Salud de Guerrero** | Asesor de los Programas de ETVS | 2013 - 2015
+
+**Secretaría de Salud de Puebla** | Asesor de los Programas de ETVS | 2016 - 2018
+
+**Secretaría de Salud de Veracruz** | Asesor de los Programas de ETVS | 2019 - 2021
