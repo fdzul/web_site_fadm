@@ -16,7 +16,7 @@ output:
  
 ##  **<span style="color:#003300;">Bio</span>**
 
-Licenciado en biología por parte de la Universidad Autónoma de Yucatán y Maestro en Ciencias de la Salud por parte del Instituto Nacional de Salud Pública. Actualmente es candidato en la especialidad de métodos estadísticos en la Universidad Veracruzana. Su experiencia profesional, incluye su desempeño en el programa de prevención y control de enfermedades transmitidas por vector en la secretaría de salud desde el 2003 hasta la presente fecha y ha impartido la materia de Entomología del dengue (2012-2013) y Artrópodos (2009-2013) en la Unidad Académica de Ciencias Químico-Biológicas de la Universidad Autónoma de Guerrero. Su experiencia en investigación incluye la publicación de artículos científicos en revistas nacionales e internacionales y actualmente desarrolla paquetes en R.
+<span style="color:#660033;">Licenciado en biología por parte de la Universidad Autónoma de Yucatán y Maestro en Ciencias de la Salud por parte del Instituto Nacional de Salud Pública. Actualmente es candidato en la especialidad de métodos estadísticos en la Universidad Veracruzana. Su experiencia profesional, incluye su desempeño en el programa de prevención y control de enfermedades transmitidas por vector en la secretaría de salud desde el 2003 hasta la presente fecha y ha impartido la materia de Entomología del dengue (2012-2013) y Artrópodos (2009-2013) en la Unidad Académica de Ciencias Químico-Biológicas de la Universidad Autónoma de Guerrero. Su experiencia en investigación incluye la publicación de artículos científicos en revistas nacionales e internacionales y actualmente desarrolla paquetes en [R](https://cran.r-project.org/).</span>
 
 ##  **<span style="color:#003300;">Educación</span>**
 
