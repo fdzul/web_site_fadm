@@ -8,7 +8,13 @@ links:
     url: "https://github.com/fdzul/"
   - label: Email
     url: "mailto:felipe.dzul.m@email.com"
-  - label: Telefono
+  - label: Talks
+    url: "mailto:felipe.dzul.m@email.com"
+  - label: R Packages
+    url: "mailto:felipe.dzul.m@email.com"
+  - label: Bookdowns
+    url: "mailto:felipe.dzul.m@email.com"
+  - label: Dashboards
     url: "mailto:felipe.dzul.m@email.com"
 output:
   postcards::trestles
@@ -16,24 +22,30 @@ output:
  
 ##  **<span style="color:#003300;">Bio</span>**
 
-<span style="color:#660033;">Licenciado en biología por parte de la Universidad Autónoma de Yucatán y Maestro en Ciencias de la Salud por parte del Instituto Nacional de Salud Pública. Actualmente es candidato en la especialidad de métodos estadísticos en la Universidad Veracruzana. Su experiencia profesional, incluye su desempeño en el programa de prevención y control de enfermedades transmitidas por vector en la secretaría de salud desde el 2003 hasta la presente fecha y ha impartido la materia de Entomología del dengue (2012-2013) y Artrópodos (2009-2013) en la Unidad Académica de Ciencias Químico-Biológicas de la Universidad Autónoma de Guerrero. Su experiencia en investigación incluye la publicación de artículos científicos en revistas nacionales e internacionales y actualmente desarrolla paquetes en [R](https://cran.r-project.org/).</span>
+<span style="color:#660033;">Licenciado en biología por parte de la Universidad Autónoma de Yucatán y Maestro en Ciencias de la Salud por parte del Instituto Nacional de Salud Pública. Actualmente es candidato en la especialidad de métodos estadísticos en la Universidad Veracruzana. Su experiencia profesional, incluye su desempeño en el programa de prevención y control de enfermedades transmitidas por vector en la secretaría de salud desde el 2003 hasta la presente fecha y ha impartido la materia de Entomología del dengue (2012-2013) y Artrópodos (2009-2013) en la Unidad Académica de Ciencias Químico-Biológicas de la Universidad Autónoma de Guerrero. Su experiencia en investigación incluye la publicación de artículos científicos en revistas nacionales e internacionales y actualmente desarrolla paquetes en [R](https://cran.r-project.org/).</span> Devoto amante de [R](https://cran.r-project.org/), [Julia](https://julialang.org/) y [Python](https://www.python.org/).
 
 ##  **<span style="color:#003300;">Educación</span>**
 
-**Universidad Veracruzana** | Xalapa, Veracruz México
+
+**Universidad Veracruzana** | Xalapa, Veracruz, México.
 
 Especialista en Métodos Estadísticos | 2021 - 2022
 
-**Instituto Nacional de Salud Pública** | Cuernavaca, Morelos México
+**Universidad Autonoma de Nuevo León** | Monterrey, Nuevo León, México.
 
-Maestro en Ciencias de la Salud | 2004 - 2006
+Doctorado en Entomología Médica | 2017 - 2021
 
-**Universidad Autónoma de Yucatán ** | Mérida, Yucatán México
+**Instituto Nacional de Salud Pública** | Cuernavaca, Morelos, México.
 
-Licenciado en Biología  | 1996 - 2001
+Maestria en Ciencias de la Salud | 2004 - 2006
+
+**Universidad Autónoma de Yucatán ** | Mérida, Yucatán, México.
+
+Licenciatura en Biología  | 1996 - 2001
 
 
-##  **<span style="color:#003300;">Experiencia</span>**
+##  **<span style="color:#003300;">Experiencia Laboral </span>**
+
 
 **Secretaría de Salud de Veracruz** | Asesor de los Programas de ETVs | 2019 - 2021
 
